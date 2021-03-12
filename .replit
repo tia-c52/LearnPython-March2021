@@ -1,2 +1,2 @@
-run="python3 basic/mod.py"  
+run="python3 basic/ifelse.py"  
 language="python3"  
